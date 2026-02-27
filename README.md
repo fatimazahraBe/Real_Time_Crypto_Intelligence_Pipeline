@@ -300,13 +300,3 @@ invistis-crypto-pipeline/
 ### Left join streaming impossible
 **Erreur** : Left join avec deux streams interdit par Spark  
 **Solution** : `inner` join en streaming, `left` join conservé en mode batch
-
----
-
-## Équipe
-
-| Rôle | Nom |
-|------|-----|
-| Data Engineer | Binôme DATA NEXT |
-| Client | INVISTIS |
-| Période | 24–27 Février 2026 |
